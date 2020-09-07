@@ -1,0 +1,6 @@
+[submodule "nfl_backend"]
+	path = nfl_backend
+	url = https://github.com/shervinkh/nfl_backend
+[submodule "nfl_frontend"]
+	path = nfl_frontend
+	url = https://github.com/shervinkh/nfl_frontend
